@@ -66,7 +66,7 @@ h3 {
 }
 
 a {
-    color: #00a388;
+    color: #037682;
     -webkit-transition: all 300ms ease;
     -moz-transition: all 300ms ease;
     transition: all 300ms ease;
@@ -75,7 +75,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    box-shadow: 0 -2px 0px #00c9a7 inset;
+    box-shadow: 0 -2px 0px #00c4cc inset;
     /*  text-shadow: 1px 0px 0px #fff,
     0px 1px 0px #fff,
     1px 1px 0px #fff,
@@ -92,7 +92,7 @@ a:focus {
 .dark a:hover,
 .dark a:active,
 .dark a:focus {
-    box-shadow: 0 -2px 0px #00c9a7 inset;
+    box-shadow: 0 -2px 0px #00c4cc inset;
     /*  text-shadow: 1px 0px 0px #1A1A1A,
     0px 1px 0px #1A1A1A,
     1px 1px 0px #1A1A1A,
@@ -165,7 +165,7 @@ a:focus {
 .et_pb_featured_table .et_pb_pricing_heading,
 #top-header,
 #et-secondary-nav li ul {
-    background: #00c9a7 !important;
+    background: #00c4cc !important;
 }
 
 .woocommerce a.button.alt,
@@ -191,7 +191,7 @@ a:focus {
 .woocommerce-message,
 .woocommerce-error,
 .woocommerce-info {
-    background: #00c9a7 !important;
+    background: #00c4cc !important;
 }
 
 
@@ -262,7 +262,7 @@ a:focus {
 .nav-single a,
 .posted_in a,
 .footer-widget h4 {
-    color: #00c9a7 !important;
+    color: #00c4cc !important;
 }
 
 .et-fixed-header #top-menu li.current-menu-ancestor>a,
@@ -272,7 +272,7 @@ a:focus {
 
 .woocommerce .star-rating span:before,
 .woocommerce-page .star-rating span:before {
-    color: #00c9a7 !important;
+    color: #00c4cc !important;
 }
 
 .et-search-form,
@@ -280,7 +280,7 @@ a:focus {
 .et_mobile_menu,
 .footer-widget li:before,
 .et_pb_pricing li:before {
-    border-color: #00c9a7 !important;
+    border-color: #00c4cc !important;
 }
 
 .et_pb_contact p input,
@@ -309,29 +309,29 @@ input[type=text]:focus, input.text:focus, input.title:focus, textarea:focus, sel
 input[type="text"]:focus, input[type="password"]:focus, input[type="tel"]:focus, input[type="email"]:focus, input.text:focus, input.title:focus, textarea:focus, select:focus,
 input[type=text]:active, input.text:active, input.title:active, textarea:active, select:active, .et_pb_contact p input:active, .et_pb_contact p textarea:active,
 input[type="text"]:active, input[type="password"]:active, input[type="tel"]:active, input[type="email"]:active, input.text:active, input.title:active, textarea:active, select:active {
-  border-color: #00c9a7 !important;
+  border-color: #00c4cc !important;
   background-color: transparent !important;
-  color: #00c9a7 !important;
+  color: #00c4cc !important;
 }
 
 input[type=text]:hover, input.text:hover, input.title:hover, textarea:hover, select:hover, .et_pb_contact p input:hover, .et_pb_contact p textarea:hover,
 input[type="text"]:hover, input[type="password"]:hover, input[type="tel"]:hover, input[type="email"]:hover, input.text:hover, input.title:hover, textarea:hover, select:hover,
 .et_pb_contact_field_3.et_pb_contact_field:hover .et_pb_contact_field_options_title, .et_pb_contact_form_container .et_pb_contact_field_3.et_pb_contact_field:hover .input, .et_pb_contact_form_container .et_pb_contact_field_3.et_pb_contact_field:hover .input::placeholder, .et_pb_contact_form_container .et_pb_contact_field_3.et_pb_contact_field:hover .input[type="checkbox"]+label, .et_pb_contact_form_container .et_pb_contact_field_3.et_pb_contact_field:hover .input[type="radio"]+label {
-  border-color: #00c9a7 !important;
+  border-color: #00c4cc !important;
   background-color: #FC5CB1F !important;
   color: #1A1A1A !important;
 }
 */
 
 #et_pb_contact_phone_0 {
-    color: #00a388
+    color: #037682
 }
 
 #et_pb_contact_phone_0:hover,
 #et_pb_contact_phone_0:active,
 #et_pb_contact_phone_0:focus {
     color: #FFFFFF !important;
-    background: #00a388 !important
+    background: #037682 !important
 }
 
 .et_pb_contact_captcha {
@@ -341,11 +341,11 @@ input[type="text"]:hover, input[type="password"]:hover, input[type="tel"]:hover,
 }
 
 .et-pb-contact-message {
-    color: #00c9a7 !important
+    color: #00c4cc !important
 }
 
 .et_pb_widget li a:hover {
-    color: #00c9a7;
+    color: #00c4cc;
 }
 
 
@@ -357,9 +357,9 @@ input[type="text"]:hover, input[type="password"]:hover, input[type="tel"]:hover,
 #top-menu-nav>ul>li>a:hover,
 #top-menu-nav>ul>li>a:focus {
     color: #1A1A1A;
-    -webkit-box-shadow: 0 -5px 0 #00c9a7 inset !important;
-    -moz-box-shadow: 0 -5px 0 #00c9a7 inset !important;
-    box-shadow: 0 -5px 0 #00c9a7 inset !important;
+    -webkit-box-shadow: 0 -5px 0 #00c4cc inset !important;
+    -moz-box-shadow: 0 -5px 0 #00c4cc inset !important;
+    box-shadow: 0 -5px 0 #00c4cc inset !important;
 }
 
 #main-footer {
@@ -395,10 +395,10 @@ input[type="text"]:hover, input[type="password"]:hover, input[type="tel"]:hover,
 .bottom-nav li.current-menu-item>a,
 #main-footer a:hover,
 #fmain-footer a:focus {
-    color: #00c9a7 !important;
-    -webkit-box-shadow: 0 -1px 0 #00c9a7 inset !important;
-    -moz-box-shadow: 0 -1px 0 #00c9a7 inset !important;
-    box-shadow: 0 -1px 0 #00c9a7 inset !important;
+    color: #00c4cc !important;
+    -webkit-box-shadow: 0 -1px 0 #00c4cc inset !important;
+    -moz-box-shadow: 0 -1px 0 #00c4cc inset !important;
+    box-shadow: 0 -1px 0 #00c4cc inset !important;
 }
 
 #et-info {
@@ -547,7 +547,7 @@ div.wpcf7-mail-sent-ok {
 }
 
 .wpcf7-submit {
-    color: #00a388 !important;
+    color: #037682 !important;
     margin: 8px auto 0;
     cursor: pointer;
     font-size: 18px;
