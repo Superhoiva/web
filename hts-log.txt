@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 Apr 2021 22:35:21 at https://hoiwa.fi/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hoiwa.fi/ -O1 "C:\My Web Sites\super" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:35:25	Warning: 	Note: due to https://hoiwa.fi remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+22:36:29	Error: 	"Method Not Allowed" (405) at link https://hoiwa.fi/xmlrpc.php (from https://hoiwa.fi/)
+22:36:44	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://hoiwa.fi/)
+22:38:04	Error: 	"Not Found" (404) at link https://hoiwa.fi/wp-content/plugins/feed-them-social/feeds/images/fb-play-btn.png (from https://hoiwa.fi/wp-content/plugins/feed-them-social/feeds/css/styles.css?ver=2.9.4)
+22:38:11	Error: 	"Not Found" (404) at link https://hoiwa.fi/c (from https://connect.facebook.net/en_US/fbevents.js)
+22:38:11	Error: 	"Not Found" (404) at link https://hoiwa.fi/b (from https://connect.facebook.net/en_US/fbevents.js)
+22:38:11	Error: 	"Not Found" (404) at link https://hoiwa.fi/POST (from https://connect.facebook.net/en_US/fbevents.js)
+22:38:11	Warning: 	Moved Permanently for https://hoiwa.fi/?p=728
+22:38:11	Warning: 	File has moved from https://hoiwa.fi/?p=728 to https://hoiwa.fi/tietoa-meista-hoiwa-oy/
+22:38:12	Warning: 	Moved Permanently for https://hoiwa.fi/?p=1279
+22:38:12	Warning: 	File has moved from https://hoiwa.fi/?p=1279 to https://hoiwa.fi/hoiwan-tarina/
+22:38:14	Warning: 	Moved Permanently for https://hoiwa.fi/?p=1327
+22:38:14	Warning: 	File has moved from https://hoiwa.fi/?p=1327 to https://hoiwa.fi/ajankohtaista/
+22:38:15	Error: 	"Not Found" (404) at link https://hoiwa.fi/tyonhakijalle-tyopaikat/ja (from https://hoiwa.fi/ajankohtaista/)
+22:38:15	Warning: 	Moved Permanently for https://hoiwa.fi/?p=228
+22:38:15	Warning: 	File has moved from https://hoiwa.fi/?p=228 to https://hoiwa.fi/henkilostovuokraus/
+22:38:16	Warning: 	Moved Permanently for https://hoiwa.fi/tyonhakijalle/
+22:38:16	Warning: 	File has moved from https://hoiwa.fi/tyonhakijalle/ to https://hoiwa.fi/tyonhakijalle-tyopaikat/
+22:38:16	Warning: 	Moved Permanently for https://hoiwa.fi/?p=247
+22:38:16	Warning: 	File has moved from https://hoiwa.fi/?p=247 to https://hoiwa.fi/kotisairaanhoito/
+22:38:17	Warning: 	Moved Permanently for https://hoiwa.fi/?p=251
+22:38:17	Warning: 	File has moved from https://hoiwa.fi/?p=251 to https://hoiwa.fi/kielipalvelut/
+22:38:19	Warning: 	Moved Permanently for https://hoiwa.fi/?p=123
+22:38:19	Warning: 	File has moved from https://hoiwa.fi/?p=123 to https://hoiwa.fi/rekrytointipalvelu/
+22:38:20	Warning: 	Moved Permanently for https://hoiwa.fi/?p=175
+22:38:20	Warning: 	File has moved from https://hoiwa.fi/?p=175 to https://hoiwa.fi/tyonhakijalle-tyopaikat/
+22:38:20	Warning: 	Moved Permanently for https://hoiwa.fi/?p=262
+22:38:20	Warning: 	File has moved from https://hoiwa.fi/?p=262 to https://hoiwa.fi/yhteystiedot/
+22:38:20	Warning: 	Moved Permanently for https://hoiwa.fi/?p=3
+22:38:20	Warning: 	File has moved from https://hoiwa.fi/?p=3 to https://hoiwa.fi/privacy-policy/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 0 seconds : 199 links scanned, 180 files written (10922637 bytes overall) [10233949 bytes received at 56855 bytes/sec], 1397214 bytes transferred using HTTP compression in 26 files, ratio 27%, 1.1 requests per connection
+(7 errors, 23 warnings, 0 messages)
