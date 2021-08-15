@@ -622,7 +622,7 @@ select:active,
 
 /*
 input[type="text"], input.text, input.title, textarea, select {
-border-color: rgba(255,255,255,0.8)!important;
+border-color: rgba(43,48,58,0.5)!important;
 background-color: transparent !important;
 }*/
 
