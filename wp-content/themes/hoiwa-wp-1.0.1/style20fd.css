@@ -363,11 +363,13 @@ input[type="text"]:hover, input[type="password"]:hover, input[type="tel"]:hover,
 }
 
 #main-footer {
-    background-color: #1A1A1A;
+    background-color: #ADADAD;
+    
 }
 
 #footer-info {
     font-size: 14px;
+    color: #1A1A1A;
 }
 
 .footer-smaller-margins {
