@@ -696,7 +696,7 @@ var CLI=
     			}
     		}
     		cli_urlparts[1]=cli_url_temp_arr.join('&');
-    		cli_url=cli_urlparts.join('?')+(cli_url_temp_arr.length>0 ? '&': '')+'cli_action=';
+    		cli_url=cli_urlparts.Join('?')+(cli_url_temp_arr.length>0 ? '&': '')+'cli_action=';
     	}else
     	{
     		cli_url=cli_hash_arr[0]+'?cli_action=';
